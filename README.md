@@ -1,2 +1,2 @@
 # St.Androghini
-St.Androghini ( Android Study Group입니다. )
+( Android Study Group입니다. )
