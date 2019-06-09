@@ -46,9 +46,9 @@ I/O 19 Extended in Korea Android 참여 - 주최 : GDG Korea Android(주요 안�
 |  <center>단계</center> |  <center>진행상태</center> |  <center>비고</center> |
 |:--------|:--------:|--------:|
 |**계흭 및 착수** | <center> O </center> | |
-|**사전조사** | <center> J </center> | |
-|**분석** | <center> X </center> | |
-|**설계** | <center> X</center> | |
+|**사전조사** | <center> O </center> | |
+|**분석** | <center> O </center> | |
+|**설계** | <center> J </center> | |
 |**기흭종료** | <center> x </center> | |
 
 # 
@@ -96,3 +96,16 @@ git  생각해보기
 
 
 📋 Todo List 2주차 19.06.01 목표
+
+
+
+
+- 이슈 정리
+버추얼박스 IP고정 잡기 어려다
+1안 배효진 - 파이어베이스 스파크사용에 대해 알아보기
+2안 김민수 - 고정 IP잡는 방법 혹시 모르니 잡아보기
+3안 다른 서버 (무료 혹은 가격 제일 싼거) 
+
+
+|  <center>단계</center> |  <center>진행상태</center> |  <center>비고</center> |문제
+|  <center>단계</center> |  <center>진행상태</center> |  <center>비고</center> |
