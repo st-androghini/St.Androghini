@@ -112,5 +112,12 @@ git  생각해보기
 3안 다른 서버 (무료 혹은 가격 제일 싼거) 
 
 
+📋 Todo List 3주차 19.06.15 목표  
+Conference 참석  
+현재 진행상황 리뷰  
+
+
+
+
 |  <center>단계</center> |  <center>진행상태</center> |  <center>비고</center> |문제
 |  <center>단계</center> |  <center>진행상태</center> |  <center>비고</center> |
